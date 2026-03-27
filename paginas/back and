@@ -1,1 +1,27 @@
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>poetifolio- kaiser enmanuel</title>
+
+<style>
+    .sobre{
+        text-align: center;
+    }
+</style>
+</head>
+
+<body>
+    <a href="https://github.com/kaiserblanco-code/front-end-1"> meu github</a>
+</body>
+  <header class="sobre">
+    <h1>sobre mim</h1>
+
+    <h3>ola! meu nome e kaiser enmanuel
+        <br>apresentação: Eu gosto de praticar esportes,e tbm gosto de jogar sinuca
+        <br>observação:faço curso as quintas e sextas,pratico esportes, e gosto de apredender.
+    </h3>
+  </header>
+</html>
