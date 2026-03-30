@@ -1,1 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <div class="style">
+        <style>
+            .formal {
+                text-align: center;
+            }
+        </style>
+    </div>
+</head>
+
+<body>
+
+</body>
+<header>
+
+    <h1 class="formal">formação</h1>
+    <p>cursando inovação de tecnologia
+    </p>
+
+    </div>
+
+</html>
